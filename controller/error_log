@@ -1,0 +1,63 @@
+[22-Jan-2019 11:08:59 Asia/Jakarta] PHP Notice:  Undefined index: files in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 6
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined variable: idLab in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined index: idPatient in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined variable: testSpec in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined variable: additionalNotesTest in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined variable: date_labTest in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined index: jenisFile in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined variable: idLab in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined index: idPatient in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined variable: testSpec in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined variable: additionalNotesTest in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined variable: date_labTest in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:21:49 Asia/Jakarta] PHP Notice:  Undefined index: jenisFile in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 33
+[22-Jan-2019 11:26:04 Asia/Jakarta] PHP Notice:  Undefined variable: testSpec in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 39
+[22-Jan-2019 11:26:04 Asia/Jakarta] PHP Notice:  Undefined variable: testSpec in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 39
+[22-Jan-2019 11:42:18 Asia/Jakarta] PHP Notice:  Undefined variable: testSpec in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 39
+[22-Jan-2019 11:42:18 Asia/Jakarta] PHP Notice:  Undefined variable: testSpec in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 39
+[22-Jan-2019 12:24:10 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:24:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:24:11 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:24:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:24:18 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:24:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:24:53 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 6
+[22-Jan-2019 12:24:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 6
+[22-Jan-2019 12:27:49 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:27:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:28:04 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:28:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:30:17 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:30:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:30:26 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:30:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/controller/deletePhoto.php on line 5
+[22-Jan-2019 12:35:03 Asia/Jakarta] PHP Notice:  Undefined index: files in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 16
+[22-Jan-2019 12:35:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 16
+[22-Jan-2019 12:35:48 Asia/Jakarta] PHP Notice:  Undefined index: files in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 16
+[22-Jan-2019 12:35:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 16
+[22-Jan-2019 12:37:06 Asia/Jakarta] PHP Notice:  Undefined index: files in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 16
+[22-Jan-2019 12:37:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 16
+[22-Jan-2019 12:37:34 Asia/Jakarta] PHP Notice:  Undefined index: files in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 16
+[22-Jan-2019 12:37:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 16
+[22-Jan-2019 12:38:50 Asia/Jakarta] PHP Notice:  Undefined variable: last_id in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 32
+[22-Jan-2019 12:38:50 Asia/Jakarta] PHP Notice:  Undefined variable: primary in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 32
+[22-Jan-2019 12:38:50 Asia/Jakarta] PHP Notice:  Undefined variable: last_id in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 32
+[22-Jan-2019 12:38:51 Asia/Jakarta] PHP Notice:  Undefined variable: primary in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 32

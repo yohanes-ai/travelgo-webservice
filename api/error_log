@@ -1,0 +1,268 @@
+[18-Jan-2019 16:36:58 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 16:37:14 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 16:39:23 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 16:40:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Carbon' not found in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 11
+[18-Jan-2019 16:43:21 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 16:43:32 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 16:44:19 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 16:47:01 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:03:15 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:10:38 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:12:47 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:12:54 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:14:31 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:15:57 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:16:42 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:35:21 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:36:27 Asia/Jakarta] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 9
+[18-Jan-2019 17:36:30 Asia/Jakarta] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 9
+[18-Jan-2019 17:39:11 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:39:35 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:40:00 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('j/n/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:40:22 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', '')
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[18-Jan-2019 17:44:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 12
+[18-Jan-2019 17:44:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 12
+[21-Jan-2019 11:01:35 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/ehf33w2gaixl/public_html/travel-go/api/login.php on line 30
+[21-Jan-2019 14:46:12 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/ehf33w2gaixl/public_html/travel-go/api/login.php on line 30
+[21-Jan-2019 15:25:26 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/ehf33w2gaixl/public_html/travel-go/api/login.php on line 30
+[21-Jan-2019 15:25:46 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/ehf33w2gaixl/public_html/travel-go/api/login.php on line 30
+[22-Jan-2019 14:19:43 Asia/Jakarta] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 3
+[22-Jan-2019 14:19:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 3
+[22-Jan-2019 14:19:43 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 6
+[22-Jan-2019 14:19:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 6
+[22-Jan-2019 14:20:00 Asia/Jakarta] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 3
+[22-Jan-2019 14:20:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 3
+[22-Jan-2019 14:20:00 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 6
+[22-Jan-2019 14:20:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 6
+[22-Jan-2019 14:20:46 Asia/Jakarta] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 3
+[22-Jan-2019 14:20:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 3
+[22-Jan-2019 14:20:46 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 6
+[22-Jan-2019 14:20:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPhotoLocation.php on line 6
+[22-Jan-2019 15:34:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Carbon' not found in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 7
+[22-Jan-2019 15:34:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Carbon' not found in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 7
+[22-Jan-2019 15:35:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Carbon\Carbon' not found in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 10
+[22-Jan-2019 15:40:23 Asia/Jakarta] PHP Warning:  file_put_contents(): supplied resource is not a valid stream resource in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 21
+[22-Jan-2019 16:01:51 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 16:02:28 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 16:15:01 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 16:15:22 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 16:17:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 35
+[22-Jan-2019 16:20:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 35
+[22-Jan-2019 16:24:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 32
+[22-Jan-2019 16:30:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:31:26 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 16:31:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:32:18 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 16:34:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:35:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:36:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:38:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:46:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:47:29 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 16:48:32 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 16:49:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:50:13 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 16:50:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:51:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:52:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:58:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 16:58:38 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 17:01:58 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 17:02:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 17:02:56 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 17:04:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 17:04:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 29
+[22-Jan-2019 17:05:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 29
+[22-Jan-2019 17:06:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 29
+[22-Jan-2019 17:08:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 17:09:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 17:09:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 29
+[22-Jan-2019 17:09:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 29
+[22-Jan-2019 17:11:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 29
+[22-Jan-2019 17:13:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 29
+[22-Jan-2019 17:14:12 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 29
+[22-Jan-2019 17:15:49 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 17:17:26 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 17:17:45 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php(11): Carbon\Carbon::createFromFormat('d/m/Y', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[22-Jan-2019 17:21:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 17:23:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 34
+[22-Jan-2019 17:25:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 34
+[22-Jan-2019 17:25:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 34
+[22-Jan-2019 17:28:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 17:28:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 34
+[22-Jan-2019 17:30:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 17:30:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 17:31:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageUser.php on line 18
+[22-Jan-2019 17:53:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 24
+[22-Jan-2019 17:55:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 34
+[22-Jan-2019 17:55:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 34
+[22-Jan-2019 20:03:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 34
+[22-Jan-2019 20:05:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 24
