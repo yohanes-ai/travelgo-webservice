@@ -551,3 +551,74 @@
 [22-Jan-2019 16:23:29 Asia/Jakarta] PHP Notice:  Undefined index: photo in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 111
 [22-Jan-2019 16:23:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 111
 [22-Jan-2019 16:28:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 8
+[23-Jan-2019 14:40:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 11
+[23-Jan-2019 14:41:13 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 41
+[23-Jan-2019 14:41:13 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 43
+[23-Jan-2019 14:41:13 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 41
+[23-Jan-2019 14:41:13 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 43
+[23-Jan-2019 14:41:13 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 41
+[23-Jan-2019 14:41:13 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 43
+[23-Jan-2019 14:41:13 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 41
+[23-Jan-2019 14:41:13 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 43
+[23-Jan-2019 14:41:28 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 40
+[23-Jan-2019 14:41:28 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 42
+[23-Jan-2019 14:41:28 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 40
+[23-Jan-2019 14:41:28 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 42
+[23-Jan-2019 14:41:28 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 40
+[23-Jan-2019 14:41:28 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 42
+[23-Jan-2019 14:41:28 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 40
+[23-Jan-2019 14:41:28 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 42
+[23-Jan-2019 15:36:21 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:36:21 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:36:26 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:36:26 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:38:25 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:38:25 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:38:26 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:38:26 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:38:29 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 40
+[23-Jan-2019 15:38:29 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 44
+[23-Jan-2019 15:38:29 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 49
+[23-Jan-2019 15:38:29 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 49
+[23-Jan-2019 15:38:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 49
+[23-Jan-2019 15:38:29 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 61
+[23-Jan-2019 15:38:29 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 61
+[23-Jan-2019 15:38:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 61
+[23-Jan-2019 15:38:31 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:38:31 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ehf33w2gaixl/public_html/travel-go/admin/location.php on line 58
+[23-Jan-2019 15:39:01 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 40
+[23-Jan-2019 15:39:01 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 44
+[23-Jan-2019 15:39:01 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 49
+[23-Jan-2019 15:39:01 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 49
+[23-Jan-2019 15:39:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 49
+[23-Jan-2019 15:39:01 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 61
+[23-Jan-2019 15:39:01 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 61
+[23-Jan-2019 15:39:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 61
+[23-Jan-2019 15:39:31 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 41
+[23-Jan-2019 15:39:31 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 45
+[23-Jan-2019 15:39:31 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 50
+[23-Jan-2019 15:39:31 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 50
+[23-Jan-2019 15:39:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 50
+[23-Jan-2019 15:39:31 Asia/Jakarta] PHP Notice:  Undefined variable: location in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 62
+[23-Jan-2019 15:39:31 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 62
+[23-Jan-2019 15:39:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 62
+[23-Jan-2019 15:41:24 Asia/Jakarta] PHP Notice:  Undefined variable: row in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 12
+[23-Jan-2019 15:41:24 Asia/Jakarta] PHP Notice:  Undefined variable: row in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 14
+[23-Jan-2019 15:41:24 Asia/Jakarta] PHP Notice:  Undefined variable: row in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 19
+[23-Jan-2019 15:41:24 Asia/Jakarta] PHP Notice:  Undefined variable: row in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 21
+[23-Jan-2019 15:41:24 Asia/Jakarta] PHP Notice:  Undefined offset: 4 in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 49
+[23-Jan-2019 15:41:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 49
+[23-Jan-2019 15:41:24 Asia/Jakarta] PHP Notice:  Undefined offset: 4 in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 61
+[23-Jan-2019 15:41:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/admin/editLocation.php on line 61
+[24-Jan-2019 14:10:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 14
+[24-Jan-2019 14:10:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 14
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: address in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 41
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: phone in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 42
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: address in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 41
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: phone in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 42
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: address in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 41
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: phone in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 42
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: address in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 41
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: phone in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 42
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: address in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 41
+[24-Jan-2019 14:11:23 Asia/Jakarta] PHP Notice:  Undefined index: phone in /home/ehf33w2gaixl/public_html/travel-go/admin/package.php on line 42

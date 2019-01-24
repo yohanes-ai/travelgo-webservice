@@ -12,8 +12,9 @@
 	
   $sql="select m_package.*,m_tour.name as tour,m_tour.address as address from m_package 
   	join m_user on m_package.user_id=m_user.id 
+  	join m_tour on m_user.id = m_tour.user_id
     join m_location on m_package.location_id=m_location.id 
-  	where m_location.name='$location' and m_package.date_start<='$date' and m_package.date_end>='$date'";
+  	where m_location.name='$location' and m_package.date_start='$date' and m_package.approval=1";
   // var_dump($sql);die();
   $query=$conn->query($sql);
   // $query=mysqli_query($conn,$sql);

@@ -266,3 +266,114 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 24
+[23-Jan-2019 10:03:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 34
+[23-Jan-2019 10:04:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 53
+[23-Jan-2019 10:54:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageSpecific.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPackageSpecific.php on line 15
+[23-Jan-2019 10:56:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ehf33w2gaixl/public_html/travel-go/api/getPlaces.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPlaces.php on line 8
+[23-Jan-2019 11:29:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 24
+[23-Jan-2019 11:29:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 24
+[23-Jan-2019 11:30:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php on line 24
+[23-Jan-2019 11:32:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:36:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:38:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:43:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:43:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:46:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:46:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:46:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:47:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:48:11 Asia/Jakarta] PHP Notice:  Undefined variable: rowLocation in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 33
+[23-Jan-2019 11:48:11 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 99
+[23-Jan-2019 11:48:11 Asia/Jakarta] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 100
+[23-Jan-2019 11:49:01 Asia/Jakarta] PHP Notice:  Undefined variable: rowLocation in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 33
+[23-Jan-2019 11:54:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 11:55:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/getDetailPackage.php on line 16
+[23-Jan-2019 13:53:24 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 134
+[23-Jan-2019 13:54:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 134
+[23-Jan-2019 13:56:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 134
+[23-Jan-2019 13:56:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 134
+[23-Jan-2019 13:58:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 134
+[23-Jan-2019 14:23:39 Asia/Jakarta] PHP Notice:  Undefined index: tourpack in /home/ehf33w2gaixl/public_html/travel-go/api/postBooking.php on line 12
+[23-Jan-2019 14:23:39 Asia/Jakarta] PHP Notice:  Undefined index: jumlahOrang in /home/ehf33w2gaixl/public_html/travel-go/api/postBooking.php on line 13
+[23-Jan-2019 14:23:39 Asia/Jakarta] PHP Notice:  Undefined index: total in /home/ehf33w2gaixl/public_html/travel-go/api/postBooking.php on line 14
+[23-Jan-2019 14:24:01 Asia/Jakarta] PHP Notice:  Undefined index: tourpack in /home/ehf33w2gaixl/public_html/travel-go/api/postBooking.php on line 12
+[23-Jan-2019 14:24:01 Asia/Jakarta] PHP Notice:  Undefined index: jumlahOrang in /home/ehf33w2gaixl/public_html/travel-go/api/postBooking.php on line 13
+[23-Jan-2019 14:24:01 Asia/Jakarta] PHP Notice:  Undefined index: total in /home/ehf33w2gaixl/public_html/travel-go/api/postBooking.php on line 14
+[23-Jan-2019 15:01:12 Asia/Jakarta] PHP Notice:  Undefined index: first_name in /home/ehf33w2gaixl/public_html/travel-go/api/login.php on line 30
+[23-Jan-2019 15:24:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 119
+[23-Jan-2019 15:24:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 123
+[23-Jan-2019 15:24:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 126
+[23-Jan-2019 16:08:08 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 120
+[23-Jan-2019 16:08:08 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 152
+[23-Jan-2019 16:08:08 Asia/Jakarta] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 153
+[23-Jan-2019 16:09:02 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 120
+[23-Jan-2019 16:09:02 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 152
+[23-Jan-2019 16:09:02 Asia/Jakarta] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 153
+[23-Jan-2019 16:11:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 120
+[23-Jan-2019 17:28:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ehf33w2gaixl/public_html/travel-go/api/getInvoiceDetail.php on line 20
+[23-Jan-2019 17:28:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ehf33w2gaixl/public_html/travel-go/api/getInvoiceDetail.php on line 21
+[23-Jan-2019 17:28:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ehf33w2gaixl/public_html/travel-go/api/getInvoiceDetail.php on line 21
+[24-Jan-2019 10:17:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ehf33w2gaixl/public_html/travel-go/api/getPlaceVisit.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPlaceVisit.php on line 10
+[24-Jan-2019 10:17:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ehf33w2gaixl/public_html/travel-go/api/getPlaceVisit.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/api/getPlaceVisit.php on line 10
+[24-Jan-2019 12:22:53 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 59
+[24-Jan-2019 12:22:53 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 60
+[24-Jan-2019 12:22:53 Asia/Jakarta] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 61
+[24-Jan-2019 12:25:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 67
+[24-Jan-2019 12:25:36 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 85
+[24-Jan-2019 12:25:36 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 86
+[24-Jan-2019 12:25:36 Asia/Jakarta] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 87
+[24-Jan-2019 12:29:40 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 67
+[24-Jan-2019 12:29:40 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 85
+[24-Jan-2019 12:29:40 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 86
+[24-Jan-2019 12:29:40 Asia/Jakarta] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 87
+[24-Jan-2019 12:33:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:33:03 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 86
+[24-Jan-2019 12:33:03 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 87
+[24-Jan-2019 12:33:03 Asia/Jakarta] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 88
+[24-Jan-2019 12:33:38 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:33:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:34:24 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:34:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:34:49 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 86
+[24-Jan-2019 12:34:49 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 87
+[24-Jan-2019 12:35:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:35:06 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 86
+[24-Jan-2019 12:35:06 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 87
+[24-Jan-2019 12:36:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:36:23 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 86
+[24-Jan-2019 12:36:23 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 87
+[24-Jan-2019 12:37:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:37:07 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 86
+[24-Jan-2019 12:37:07 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 87
+[24-Jan-2019 12:37:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:37:54 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 86
+[24-Jan-2019 12:37:54 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 87
+[24-Jan-2019 12:37:54 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 88
+[24-Jan-2019 12:39:00 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 12:39:00 Asia/Jakarta] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 86
+[24-Jan-2019 12:39:00 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 87
+[24-Jan-2019 12:39:00 Asia/Jakarta] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 89
+[24-Jan-2019 12:40:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[24-Jan-2019 16:00:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 120
+[24-Jan-2019 16:20:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 120

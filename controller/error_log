@@ -61,3 +61,29 @@ Stack trace:
 [22-Jan-2019 12:38:50 Asia/Jakarta] PHP Notice:  Undefined variable: primary in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 32
 [22-Jan-2019 12:38:50 Asia/Jakarta] PHP Notice:  Undefined variable: last_id in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 32
 [22-Jan-2019 12:38:51 Asia/Jakarta] PHP Notice:  Undefined variable: primary in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 32
+[23-Jan-2019 15:47:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 5
+[23-Jan-2019 15:47:55 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 5
+[23-Jan-2019 15:48:00 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 5
+[23-Jan-2019 15:49:02 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 5
+[23-Jan-2019 15:53:45 Asia/Jakarta] PHP Notice:  Undefined index: placePhotoEdt in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 72
+[23-Jan-2019 15:59:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 22
+[23-Jan-2019 15:59:53 Asia/Jakarta] PHP Notice:  Undefined variable: mimeType in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 28
+[23-Jan-2019 16:00:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 22
+[23-Jan-2019 16:00:14 Asia/Jakarta] PHP Notice:  Undefined variable: mimeType in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 28
+[23-Jan-2019 16:01:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 21
+[23-Jan-2019 16:01:34 Asia/Jakarta] PHP Notice:  Undefined variable: name1 in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 25
+[23-Jan-2019 16:01:34 Asia/Jakarta] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 25
+[23-Jan-2019 16:01:34 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbxKaip' to '../images/visit_place/' in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 25
+[23-Jan-2019 16:02:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 21
+[23-Jan-2019 16:02:40 Asia/Jakarta] PHP Notice:  Undefined variable: name1 in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 25
+[23-Jan-2019 16:02:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 25
+[23-Jan-2019 16:02:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJfEGds' to '../images/visit_place/' in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 25
+[23-Jan-2019 16:04:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 79
+[23-Jan-2019 16:04:22 Asia/Jakarta] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 83
+[23-Jan-2019 16:04:22 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjdySLR' to '../images/maps/' in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 83
+[23-Jan-2019 16:05:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 80
+[23-Jan-2019 16:05:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphGULo8' to '../images/maps/' in /home/ehf33w2gaixl/public_html/travel-go/controller/editLocation.php on line 80
+[23-Jan-2019 16:13:02 Asia/Jakarta] PHP Notice:  Undefined variable: pathMaps in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 13
+[24-Jan-2019 14:56:06 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 37
+[24-Jan-2019 14:57:57 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 37
+[24-Jan-2019 14:58:32 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/ehf33w2gaixl/public_html/travel-go/controller/addLocation.php on line 37

@@ -6,8 +6,7 @@
 	include "../controller/connection.php";
 
 	$id = $_GET['id'];
-  $sql="select m_package.*,m_tourpack.price,m_user.name as user,m_package.date_start as start_date,m_package.date_end as end_date, m_location.name as location from m_package 
-    left join m_tourpack on m_tourpack.package_id=m_package.id 
+  $sql="select m_package.*,m_user.name as user,m_package.date_start as start_date,m_package.date_end as end_date, m_location.name as location from m_package 
   	join m_user on m_package.user_id=m_user.id 
   	join m_location on m_package.location_id = m_location.id
   	where m_user.id='$id'";

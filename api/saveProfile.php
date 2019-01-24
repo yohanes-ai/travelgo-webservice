@@ -29,10 +29,22 @@
 	  $sql="insert into m_tour(name,description,user_id) values('$tour_name','$tour_description','$id')";
 	  // var_dump($sql);die();
 	  $query=mysqli_query($conn,$sql);
+
+
+	  if($query)
+	  	echo json_encode(array('status'=>'berhasil'));
+	  else
+	  	echo json_encode(array('status'=>'error','message' => 'Name already exists'));
 	}
 	else{
 		$sql="update m_tour set name='$tour_name',description='$tour_description' where user_id='$id'";
 	  $query=mysqli_query($conn,$sql);
+
+	  // var_dump($query);die();
+	  if($query)
+	  	echo json_encode(array('status'=>'berhasil'));
+	  else
+	  	echo json_encode(array('status'=>'error','message' => 'Name already exists'));
 	}
 
-  echo json_encode(array('status'=>'berhasil'));
+  
