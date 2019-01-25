@@ -50,6 +50,7 @@ while($row = mysqli_fetch_assoc($query))
 							<td>
 								<?php if($tour['approval']==0){ ?>
 									<a href="../controller/approvalPackage.php?id=<?= $tour['id'] ?>" class="btn btn-primary">APPROVE</a>
+									<a href="../controller/declinePackage.php?id=<?= $tour['id'] ?>" class="btn btn-danger">DECLINE</a>
 								<?php } ?>
 								<!-- Button trigger modal -->
                 <button type="button" class="btn btn-default" data-toggle="modal" data-target="#showModal<?= $tour['id'] ?>">
