@@ -154,6 +154,7 @@
                 </div>
 
                 <a href="../controller/deleteUser.php?id=<?= $user['id'] ?>" class="btn btn-danger">DELETE</a>
+                <a href="tel:<?= $user['phone'] ?>" class="btn btn-primary">CALL</a>
               </td>
             </tr>
           <?php } ?>

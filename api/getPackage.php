@@ -23,6 +23,8 @@
   // 	array_push($arrPackage,$row);
 
   while ($row=$query->fetch_assoc()) {
+    $row['date_start']=Carbon::createFromFormat('Y-m-d',$row['date_start'])->formatLocalized('%d %B %Y');
+    $row['date_end']=Carbon::createFromFormat('Y-m-d',$row['date_end'])->formatLocalized('%d %B %Y');
   	array_push($arrPackage, $row);
   }
 
