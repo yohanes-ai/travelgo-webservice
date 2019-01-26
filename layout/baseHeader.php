@@ -31,6 +31,14 @@
 
     <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
 
+    <style type="text/css">
+    @media only screen and (max-width: 600px) {
+      .dataTables_paginate{
+        font-size: 14px
+      }
+    }
+    </style>
+
   </head>
 
   <body id="page-top">

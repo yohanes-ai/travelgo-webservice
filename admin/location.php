@@ -40,31 +40,33 @@
 		</div>
 
 		<div class="col-sm-12">
-			<table class="table">
-				<thead>
-					<tr>
-						<th>No</th>
-						<th>Name</th>
-						<th>Action</th>
-					</tr>
-				</thead>
-				<tbody>
-					<?php foreach($arrLocation as $key=>$location){ ?>
+			<div class="table-responsive">
+				<table class="table nowrap" id="table" width="100%" cellspacing="0">
+					<thead>
 						<tr>
-							<td><?= $key+1 ?></td>
-							<td><?= $location['name'] ?></td>
-							<td>
-								<!-- Button trigger modal -->
-								<a href="editLocation.php?id=<?= $location['id'] ?>" class="btn btn-warning">
-									EDIT
-								</a>
-
-								<a href="../controller/deleteLocation.php?id=<?= $location['id'] ?>" class="btn btn-danger">DELETE</a>
-							</td>
+							<th>No</th>
+							<th>Name</th>
+							<th>Action</th>
 						</tr>
-					<?php } ?>
-				</tbody>
-			</table>
+					</thead>
+					<tbody>
+						<?php foreach($arrLocation as $key=>$location){ ?>
+							<tr>
+								<td><?= $key+1 ?></td>
+								<td><?= $location['name'] ?></td>
+								<td>
+									<!-- Button trigger modal -->
+									<a href="editLocation.php?id=<?= $location['id'] ?>" class="btn btn-warning">
+										EDIT
+									</a>
+
+									<a href="../controller/deleteLocation.php?id=<?= $location['id'] ?>" class="btn btn-danger">DELETE</a>
+								</td>
+							</tr>
+						<?php } ?>
+					</tbody>
+				</table>
+			</div>
 		</div>
 	</div>
 </div>

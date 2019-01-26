@@ -34,7 +34,11 @@
 
 		<script type="text/javascript">
 			$(document).ready(function(){
-				$('table').DataTable();
+				$('table').DataTable({
+					'scrollX': true,
+					'paging': true,
+					"info": true,
+				});
 				$('.btn-danger').click(function(e){
 					if(!confirm("Are you sure?"))
 						e.preventDefault()
