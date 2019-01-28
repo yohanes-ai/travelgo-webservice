@@ -29,6 +29,7 @@
 	  $sql="insert into m_tour(name,description,user_id) values('$tour_name','$tour_description','$id')";
 	  // var_dump($sql);die();
 	  $query=mysqli_query($conn,$sql);
+	  $id=mysqli_insert_id($conn);
 
 
 	  if($query)
@@ -47,4 +48,19 @@
 	  	echo json_encode(array('status'=>'error','message' => 'Name already exists'));
 	}
 
-  
+	if(!$data['link']){
+		$sql="select * from m_tour where user_id=$id order by id desc";
+		$query=mysqli_query($conn,$sql);
+		$row=mysqli_fetch_assoc($query);
+		if(!empty($row['id']))
+			$split1=$row['id'];
+		else
+			$split1="1";
+
+		$sql="update m_tour set url_photo='".$split1.".png',mime_photo='image/png' where user_id=$id";
+		$query=mysqli_query($conn,$sql);
+
+		$data = base64_decode($data['tour_photo']);
+		$im = imagecreatefromstring($data);
+		imagepng($im, "../images/tour/".$split1.".png");
+	}  

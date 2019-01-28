@@ -10,7 +10,7 @@
 	$location = $data['location'];
 	$date = (empty($data['date']))?Carbon::now()->formatLocalized('%Y-%m-%d'):Carbon::createFromFormat('d/m/Y',$data['date'])->formatLocalized('%Y-%m-%d');
 	
-  $sql="select m_package.*,m_tour.name as tour,m_tour.address as address from m_package 
+  $sql="select m_package.*,m_tour.name as tour,m_tour.address as address,m_tour.url_photo as photo from m_package 
   	join m_user on m_package.user_id=m_user.id 
   	join m_tour on m_user.id = m_tour.user_id
     join m_location on m_package.location_id=m_location.id 
@@ -23,6 +23,7 @@
   // 	array_push($arrPackage,$row);
 
   while ($row=$query->fetch_assoc()) {
+  
     $row['date_start']=Carbon::createFromFormat('Y-m-d',$row['date_start'])->formatLocalized('%d %B %Y');
     $row['date_end']=Carbon::createFromFormat('Y-m-d',$row['date_end'])->formatLocalized('%d %B %Y');
   	array_push($arrPackage, $row);

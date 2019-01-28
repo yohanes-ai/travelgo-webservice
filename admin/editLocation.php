@@ -44,7 +44,7 @@ include "../controller/connection.php";
 						<textarea class="form-control" id="description" name="description" rows="5" placeholder="Description"><?= $location['description'] ?></textarea>
 					</div>
 					<div class="col-sm-12 mt-3">
-						<label for="description">Photo</label>
+						<label for="description">Photo <sub>(Ukuran foto 157px - 420px)</sub></label>
 						<div class="row px-4">
 							<?php foreach($photo[$location['id']] as $p){ ?>
 								<div class="col-md-3 p-1">

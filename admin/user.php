@@ -81,10 +81,10 @@
             <tr>
               <th>No</th>
               <th>Name</th>
-              <th>Email</th>
-              <th>Phone</th>
-              <th>Tour Name</th>
-              <th>Tour Description</th>
+              <th class="hide-mobile">Email</th>
+              <th class="hide-mobile">Phone</th>
+              <th class="hide-mobile">Tour Name</th>
+              <th class="hide-mobile">Tour Description</th>
               <th>Action</th>
             </tr>
           </thead>
@@ -93,10 +93,10 @@
               <tr>
                 <td><?= $key+1 ?></td>
                 <td><?= $user['name'] ?></td>
-                <td><?= $user['email'] ?></td>
-                <td><?= $user['phone'] ?></td>
-                <td><?= $user['tour']['name'] ?></td>
-                <td><?= $user['tour']['description'] ?></td>
+                <td class="hide-mobile"><?= $user['email'] ?></td>
+                <td class="hide-mobile"><?= $user['phone'] ?></td>
+                <td class="hide-mobile"><?= $user['tour']['name'] ?></td>
+                <td class="hide-mobile"><?= $user['tour']['description'] ?></td>
                 <td>
                   <!-- Button trigger modal -->
                   <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#editModal<?= $user['id'] ?>">

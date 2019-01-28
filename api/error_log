@@ -378,3 +378,118 @@ Stack trace:
 [24-Jan-2019 16:00:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 120
 [24-Jan-2019 16:20:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 120
 [25-Jan-2019 16:36:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[26-Jan-2019 16:44:13 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/ehf33w2gaixl/public_html/travel-go/api/savePackage.php on line 68
+[26-Jan-2019 17:08:59 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPackage.php(34): Carbon\Carbon::createFromFormat('Y-m-d', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[28-Jan-2019 11:15:08 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Data missing in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php:483
+Stack trace:
+#0 /home/ehf33w2gaixl/public_html/travel-go/api/getPlaces.php(20): Carbon\Carbon::createFromFormat('Y-m-d', NULL)
+#1 {main}
+  thrown in /home/ehf33w2gaixl/public_html/travel-go/src/Carbon/Traits/Creator.php on line 483
+[28-Jan-2019 08:06:42 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 22
+[28-Jan-2019 08:06:59 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 22
+[28-Jan-2019 08:07:10 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:10 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:10 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:10 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:10 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:10 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:07:50 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:00 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:08:52 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:11:25 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:11 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:28:43 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:15 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: 0 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25
+[28-Jan-2019 08:59:26 UTC] PHP Notice:  Undefined offset: -1 in /home/flbd5690jlmj/public_html/travel-go/api/getPlaces.php on line 25

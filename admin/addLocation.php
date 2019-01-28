@@ -21,7 +21,7 @@ include "../controller/connection.php";
 						<textarea class="form-control" id="description" name="description" rows="5" placeholder="Description"></textarea>
 					</div>
 					<div class="col-sm-12 mt-3">
-						<label for="description">Photo</label>
+						<label for="description">Photo <sub>(Ukuran foto 157px - 420px)</sub></label>
 						<p>Drop files here to upload or choose file<input type="file" id="file" name="files[]" multiple="multiple" accept="image/*" class="hide filePhotoUpload" /></p>
 					</div>
 					<div class="col-sm-12 mt-3">

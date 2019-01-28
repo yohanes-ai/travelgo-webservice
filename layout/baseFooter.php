@@ -34,11 +34,7 @@
 
 		<script type="text/javascript">
 			$(document).ready(function(){
-				$('table').DataTable({
-					'scrollX': true,
-					'paging': true,
-					"info": true,
-				});
+				
 				$('.btn-danger').click(function(e){
 					if(!confirm("Are you sure?"))
 						e.preventDefault()
@@ -96,6 +92,42 @@
 					return false;
 				}
 
+				if($(window).width()<992){
+					$('.hide-mobile').addClass('d-none')
+					sidebarToggle=false
+				}
+				else{
+					$('.hide-mobile').removeClass('d-none')
+					sidebarToggle=true
+				}
+
+				$(window).on('resize', function(){
+					if($(window).width()<992)
+						$('.hide-mobile').addClass('d-none')
+					else
+						$('.hide-mobile').removeClass('d-none')
+				})
+
+				function setSidebar(){
+					$('.sidebar').removeClass('d-md-none').removeClass('d-lg-block')
+					if(sidebarToggle)
+						$('.sidebar').removeClass('d-none')
+					else
+						$('.sidebar').addClass('d-none')
+				}
+
+				$('#sidebarToggle1').click(function(){
+					sidebarToggle = !sidebarToggle
+					setSidebar()
+				})
+
+				
+				
+				$('table').DataTable({
+					'scrollX': true,
+					'paging': true,
+					"info": true,
+				});
 			})
 		</script>
 

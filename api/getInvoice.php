@@ -7,11 +7,13 @@
 
 	$id = $_GET['id'];
 	
-  $sql="select m_invoice.tanggal,m_invoice.id,SUM(m_invoice_detail.total) as price,m_location.name as location from m_invoice 
+  $sql="select m_invoice.tanggal,m_invoice.id,SUM(m_invoice_detail.total) as price,m_location.name as location,m_tour.name as name from m_invoice 
   	left join m_invoice_detail on m_invoice_detail.invoice_id=m_invoice.id
     join m_tourpack on m_invoice_detail.tourpack_id=m_tourpack.id
     join m_package on m_tourpack.package_id=m_package.id
     join m_location on m_package.location_id=m_location.id
+    join m_user on m_invoice.user_id=m_user.id
+    join m_tour on m_tour.user_id=m_user.id
   	where m_invoice.user_id='$id'
     group by tanggal,location,id
     order by tanggal desc
