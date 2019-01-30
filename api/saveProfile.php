@@ -33,9 +33,9 @@
 
 
 	  if($query)
-	  	echo json_encode(array('status'=>'berhasil'));
+	  	$arrData=array('status'=>'berhasil');
 	  else
-	  	echo json_encode(array('status'=>'error','message' => 'Name already exists'));
+	  	$arrData=array('status'=>'error','message' => 'Name already exists');
 	}
 	else{
 		$sql="update m_tour set name='$tour_name',description='$tour_description' where user_id='$id'";
@@ -43,12 +43,12 @@
 
 	  // var_dump($query);die();
 	  if($query)
-	  	echo json_encode(array('status'=>'berhasil'));
+	  	$arrData=array('status'=>'berhasil');
 	  else
-	  	echo json_encode(array('status'=>'error','message' => 'Name already exists'));
+	  	$arrData=array('status'=>'error','message' => 'Name already exists');
 	}
 
-	if(!$data['link']){
+	if(!$data['link'] && $arrData['status']=="berhasil"){
 		$sql="select * from m_tour where user_id=$id order by id desc";
 		$query=mysqli_query($conn,$sql);
 		$row=mysqli_fetch_assoc($query);
@@ -63,4 +63,6 @@
 		$data = base64_decode($data['tour_photo']);
 		$im = imagecreatefromstring($data);
 		imagepng($im, "../images/tour/".$split1.".png");
-	}  
+	} 
+	
+	echo json_encode($arrData);
